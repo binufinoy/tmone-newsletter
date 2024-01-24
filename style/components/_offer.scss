@@ -1,0 +1,29 @@
+.offer__wrapper{
+    background-color: #e9f2f9;
+    padding: 35px 0px 40px 0px;
+    margin-bottom: 35px;
+    .offer__para{
+        font-size: 20px;
+        line-height: 30px;
+        color: #2480c3;
+        margin-bottom: 24px;
+        span{
+            font-weight: 700;
+        }
+    }
+    .offer__head{
+        font-size: 16px;
+        line-height: 26px;
+        color: #656464;
+        margin-bottom: 20px;
+        font-weight: 700;
+    }
+    li{
+        margin-bottom: 15px;
+        font-size: 16px;
+        color: #656464;
+    }
+    span{
+        font-weight: 700;
+    }
+}
